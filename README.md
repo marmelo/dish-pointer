@@ -19,4 +19,14 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 25.5°E | Es'hail 1 |  |  | DVB-S QPSK |  |  |
 | 23.5°E | Astra 3B |  |  | DVB-S QPSK |  |  |
 | 21.6°E | Eutelsat 21B |  |  | DVB-S QPSK |  |  |
+| 19.2°E | Astra 1KR/1L/1M/1N |  |  | DVB-S QPSK |  |  |
+| 16.1°E | Eutelsat 16A |  |  | DVB-S QPSK |  |  |
+| 16.0°E | Eutelsat 16A |  |  | DVB-S QPSK |  |  |
+| 13.0°E | Hotbird 13B/13C/13E |  |  | DVB-S QPSK |  |  |
+| 10.0°E | Eutelsat 10A |  |  | DVB-S QPSK |  |  |
+| 9.0°E | Eutelsat 9B |  |  | DVB-S QPSK |  |  |
+| 7.0°E | Eutelsat 7B/7C |  |  | DVB-S QPSK |  |  |
+| 4.8°E | Astra 4A |  |  | DVB-S QPSK |  |  |
+| 3.0°E | Eutelsat 3B |  |  | DVB-S QPSK |  |  |
+| 1.9°E | BulgariaSat 1 |  |  | DVB-S QPSK |  |  |
 | .0°E |  |  |  | DVB-S QPSK |  |  |
