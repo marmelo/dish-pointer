@@ -2,7 +2,7 @@
 
 List of the strongest satellite transponders (Lisbon, Portugal).
 
-| Position | Satellite | Freq/Pol | SR/FEC | Std/Mod | Channel | Quality |
+| Position | Satellite | Freq / Pol | SR / FEC | Std / Mod | Channel | Quality |
 | -------: | :-------- | :------- | :----- | :------ | :------ | :------ |
 | 53.0°E | Express AM6 | 12594 V | 27500 2/3 | DVB-S QPSK | Iran International | 30% 6db |
 | 52.5°E | Al Yah 1    |  |  | DVB-S QPSK |  |  |
