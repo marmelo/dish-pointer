@@ -4,7 +4,7 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 
 | Position | Satellite | Freq / Pol | SR / FEC | Std / Mod | Channel | SNR |
 | -------: | :-------- | -------: | -----: | :------ | :------ | ------: |
-| 53.0°E | Express AM6 | `12594 V` | 27500 2/3 | DVB-S QPSK | Iran International | 26% 4.2dB |
+| 53.0°E | Express AM6 | <pre>12594 V</pre> | 27500 2/3 | DVB-S QPSK | Iran International | 26% 4.2dB |
 | 52.5°E | Al Yah 1    | 11977 H | 27500 8/9 | DVB-S2 QPSK | BBC Arabic | 44% 7.2dB |
 | 50.0°E | Türksat 4B  | 11196 V | 2220 5/6 | DVB-S QPSK | Türksat Promo | 43% 7.0dB |
 | 45.0°E | AzerSpace 2/Intelsat 38 |  |  | DVB-S QPSK |  |  |
