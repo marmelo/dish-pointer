@@ -20,7 +20,7 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 |        |           | 11180 V | 27500 2/3 | DVB-S2 8PSK | beIN BOX <br/> OFFICE HD1 ($) | 74% 12.0dB |
 | 23.5°E | Astra 3B | 12168 V | 27500 3/4 | DVB-S QPSK | Ockto TV | 67% 11.0dB |
 |        |          | 12363 V | 29500 3/4 | DVB-S2 8PSK | TV NOE HD | 72% 11.8dB |
-| 21.6°E | Eutelsat 21B | 11617 V | 27500 3/4 | DVB-S2 8PSK MIS 16 | Al Aoula | 61% 9.8dB |
+| 21.6°E | Eutelsat 21B | 11617 V | 27500 3/4 | DVB-S2 8PSK MIS | Al Aoula | 61% 9.8dB |
 | 19.2°E | Astra 1KR/1L/1M/1N | 12515 H | 22000 5/6 | DVB-S QPSK | RTL Lounge ($) | 100% 16.5dB |
 | 16.0°E | Eutelsat 16A | 11512 V | 29950 2/3 | DVB-S QPSK | TV Romania Int | 64% 10.5dB |
 | 13.0°E | Hotbird 13B/13C/13E | 11623 V | 27500 3/4 | DVB-S QPSK | ERT World Europe | 86% 14.0dB |
@@ -32,7 +32,5 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 1.9°E | BulgariaSat 1 | 12456 H | 30000 2/3 | DVB-S2 8PSK | RTP International | 78% 12.8dB |
 | 1.8°W | Thor | 12265 V | 28000 7/8 | DVB-S QPSK | Eurosport ($) | 89% 14.5dB |
 | 3.0°W | ABS-3A | 12739 V | 13175 2/3 | DVB-S2 QPSK | Rete Capri | 43% 6.8dB |
+| 5.0°W | Eutelsat 5 West A/B | 11179 V | 30000 3/5 | DVB-S2 8PSK MIS | Rai YoYo | 60% 9.dB |
 | .0°W |  |  |  | DVB-S QPSK |  |  |
-
-
-	-	Europe	DVB-S2	QPSK	
