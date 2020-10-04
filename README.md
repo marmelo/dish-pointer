@@ -36,7 +36,7 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 7.0°W | Nilesat | 11785 V | 27500 5/6 | DVB-S QPSK | Spacetoon Arabic | 66% 10.8dB |
 | 8.0°W | Eutelsat 8 West B | 11012 H | 27500 2/3 | DVB-S2 8PSK | beIN SPORTS HD1 ($) | 57% 9.2dB |
 | 14.0°W | Express AM 8 | 11456 H | 3000 3/4 | DVB-S QPSK | Al Manar | 69% 11.0dB |
-| 15.0°W | Telstar 12 Vantage | 11568 H | 2678 2/3 | DVB-S QPSK | Church of Jesus Christ | 64% 10.5dB |
+| 15.0°W | Telstar 12 Vantage | 11568 H | 2678 2/3 | DVB-S QPSK | Church of <br/> Jesus Christ | 64% 10.5dB |
 | 22.0°W | SES 4 | 12674 H | 20740 3/4 | DVB-S QPSK | Canal Algérie | 46% 7.5dB |
 | 24.5°W | AlComSat 1 | 12232 H | 15910 3/4 | DVB-S QPSK | Canal Algérie | 43% 7.0dB |
 | 27.5°W | Intelsat 901 | 11495 V | 44100 9/10 | DVB-S QPSK | BBC One ($) | 47% 7.8dB |
