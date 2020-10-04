@@ -22,8 +22,7 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 |        |          | 12363 V | 29500 3/4 | DVB-S2 8PSK | TV NOE HD | 72% 11.8dB |
 | 21.6°E | Eutelsat 21B | 11617 V | 27500 3/4 | DVB-S2 8PSK MIS 16 | Al Aoula | 61% 9.8dB |
 | 19.2°E | Astra 1KR/1L/1M/1N | 12515 H | 22000 5/6 | DVB-S QPSK | RTL Lounge ($) | 100% 16.5dB |
-| 16.1°E | Eutelsat 16A |  |  | DVB-S QPSK |  |  |
-| 16.0°E | Eutelsat 16A |  |  | DVB-S QPSK |  |  |
+| 16.0°E | Eutelsat 16A | 11512 V | 29950 2/3 | DVB-S QPSK | TV Romania International | 64% 10.5dB |
 | 13.0°E | Hotbird 13B/13C/13E |  |  | DVB-S QPSK |  |  |
 | 10.0°E | Eutelsat 10A |  |  | DVB-S QPSK |  |  |
 | 9.0°E | Eutelsat 9B |  |  | DVB-S QPSK |  |  |
@@ -32,3 +31,5 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 3.0°E | Eutelsat 3B |  |  | DVB-S QPSK |  |  |
 | 1.9°E | BulgariaSat 1 |  |  | DVB-S QPSK |  |  |
 | .0°E |  |  |  | DVB-S QPSK |  |  |
+
+	D04	Europe B	DVB-S2	8PSK	
