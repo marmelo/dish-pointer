@@ -35,5 +35,5 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 5.0°W | Eutelsat 5 West A/B | 11179 V | 30000 3/5 | DVB-S2 8PSK MIS | Rai YoYo | 60% 9.dB |
 | 7.0°W | Nilesat | 11785 V | 27500 5/6 | DVB-S QPSK | Spacetoon Arabic | 66% 10.8dB |
 | 8.0°W | Eutelsat 8 West B | 11012 H | 27500 2/3 | DVB-S2 8PSK | beIN SPORTS HD1 ($) | 57% 9.2dB |
-| 14.0°W | Express AM 8 | 11456 H | 3000 3/4 | DVB-S QPSK | Al Manar | 50% 8.0dB |
+| 14.0°W | Express AM 8 | 11456 H | 3000 3/4 | DVB-S QPSK | Al Manar | 69% 11.0dB |
 | .0°W |  |  |  | DVB-S QPSK |  |  |
