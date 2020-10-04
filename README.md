@@ -20,7 +20,7 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 |        |           | 11180 V | 27500 2/3 | DVB-S2 8PSK | beIN BOX OFFICE HD1 $ | 74% 12.0dB |
 | 23.5°E | Astra 3B | 12168 V | 27500 3/4 | DVB-S QPSK | Ockto TV | 67% 11.0dB |
 |        |          | 12363 V | 29500 3/4 | DVB-S2 8PSK | TV NOE HD | 72% 11.8dB |
-| 21.6°E | Eutelsat 21B |  |  | DVB-S QPSK |  |  |
+| 21.6°E | Eutelsat 21B | 11617 V | 27500 3/4 | DVB-S2 8PSK MIS 16 | Al Aoula | 61% 9.8dB |
 | 19.2°E | Astra 1KR/1L/1M/1N |  |  | DVB-S QPSK |  |  |
 | 16.1°E | Eutelsat 16A |  |  | DVB-S QPSK |  |  |
 | 16.0°E | Eutelsat 16A |  |  | DVB-S QPSK |  |  |
@@ -32,4 +32,3 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 3.0°E | Eutelsat 3B |  |  | DVB-S QPSK |  |  |
 | 1.9°E | BulgariaSat 1 |  |  | DVB-S QPSK |  |  |
 | .0°E |  |  |  | DVB-S QPSK |  |  |
-
