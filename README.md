@@ -29,7 +29,7 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 7.0°E | Eutelsat 7B/7C | 11221 H | 27500 3/4 | DVB-S QPSK | TPAI | 75% 12.2dB |
 | 4.8°E | Astra 4A | 12284 V | 27500 3/4 | DVB-S QPSK | Sonce (UA) | 77% 12.5dB |
 | 3.0°E | Eutelsat 3B | 11654 H | 4444 3/4 | DVB-S2 8PSK | 2M Monde | 63% 10.2dB |
-| 1.9°E | BulgariaSat 1 | 12456 H | 30000 2/3 | DVB-S QPSK | RTP International | 78% 12.8dB |
+| 1.9°E | BulgariaSat 1 | 12456 H | 30000 2/3 | DVB-S2 8PSK | RTP International | 78% 12.8dB |
 | .0°E |  |  |  | DVB-S QPSK |  |  |
 
 	-	Europe	DVB-S2	8PSK		neo
