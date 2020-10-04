@@ -39,6 +39,5 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 15.0°W | Telstar 12 Vantage | 11568 H | 2678 2/3 | DVB-S QPSK | Church of Jesus Christ | 64% 10.5dB |
 | 22.0°W | SES 4 | 12674 H | 20740 3/4 | DVB-S QPSK | Canal Algérie | 46% 7.5dB |
 | 24.5°W | AlComSat 1 / Intelsat 905 | 12232 H | 15910 3/4 | DVB-S QPSK | Canal Algérie | 43% 7.0dB |
-| .0°W |  |  |  | DVB-S QPSK |  |  |
-| .0°W |  |  |  | DVB-S QPSK |  |  |
-
+| 27.5°W | Intelsat 901 | 11495 V | 44100 9/10 | DVB-S QPSK | BBC One ($) | 47% 7.8dB |
+| 30.0°W | Hispasat | 10890 V | 27500 3/4 | DVB-S QPSK | AJE | 60% 9.8dB |
