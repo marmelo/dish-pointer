@@ -17,7 +17,7 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 28.2°E | Astra 2E/2F/2G | 12207 V | 27500 5/6 | DVB-S QPSK | Sky News | 81% 13.2dB |
 | 26.0°E | Badr | 12303 H | 27500 5/6 | DVB-S QPSK | 2M NAT | 83% 13.5dB |
 | 25.5°E | Es'hail 1 | 11604 H | 27500 3/4 | DVB-S QPSK | Al Jazeera | 70% 11.2dB |
-| 25.5°E | Es'hail 1 | 11180 V | 27500 2/3 | DVB-S2 8PSK | beIN BOX OFFICE HD1 $ | 74% 12.0dB |
+|        |           | 11180 V | 27500 2/3 | DVB-S2 8PSK | beIN BOX OFFICE HD1 $ | 74% 12.0dB |
 | 23.5°E | Astra 3B |  |  | DVB-S QPSK |  |  |
 | 21.6°E | Eutelsat 21B |  |  | DVB-S QPSK |  |  |
 | 19.2°E | Astra 1KR/1L/1M/1N |  |  | DVB-S QPSK |  |  |
