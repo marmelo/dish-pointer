@@ -43,3 +43,4 @@ List of the strongest satellite transponders (Lisbon, Portugal).
 | 30.0°W | Hispasat | 10890 V | 27500 3/4 | DVB-S QPSK | AJE | 83% 13.5dB |
 |        |          | 12360 H | 27500 3/4 | DVB-S2 8PSK | Canal de Teste | 87% 14.2dB |
 |        |          | 11330 H | 27500 3/4 | DVB-S2 8PSK MIS | Aragón TV | 70% 11.8dB |
+| 34.5°W | Intelsat 35 | 11557 H | 13500 7/8 | DVB-S QPSK | Telenovelas | 38% 6.5dB |
