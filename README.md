@@ -31,7 +31,7 @@
 | 13.0°E | Hotbird 13B/13C/13E | 11623 V | 27500 3/4 | DVB-S QPSK | ERT World Europe | 86% 14.0dB |
 | 10.0°E | Eutelsat 10A | 11345 H | 27500 3/4 | DVB-S QPSK | Almajd General | 70% 11.5dB |
 | 9.0°E | Eutelsat 9B | 11996 V | 27500 3/4 | DVB-S QPSK | CCTV 4 | 70% 11.5dB |
-|       |             | 12149 V | 31400 2/3 | DVB-S2 8PSK MIS | Canale 5 HD | 41% 6.8dB* |
+|       |             | 12188 V | 31400 2/3 | DVB-S2 8PSK MIS | Canale 5 | 41% 6.8dB* |
 | 7.0°E | Eutelsat 7B/7C | 11221 H | 27500 3/4 | DVB-S QPSK | TPAI | 75% 12.2dB |
 | 4.8°E | Astra 4A | 12284 V | 27500 3/4 | DVB-S QPSK | Sonce (UA) | 77% 12.5dB |
 | 3.0°E | Eutelsat 3B | 11654 H | 4444 3/4 | DVB-S2 8PSK | 2M Monde | 63% 10.2dB |
