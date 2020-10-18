@@ -52,4 +52,4 @@
 |        |          | 11330 H | 27500 3/4 | DVB-S2 8PSK MIS | Aragón TV | 70% 11.8dB |
 | 34.5°W | Intelsat 35 | 11557 H | 13500 7/8 | DVB-S QPSK | Telenovelas | 38% 6.5dB |
 
-* Hard to lock, but after locking is stable.
+\* Hard to lock, but after locking is stable.
