@@ -1,10 +1,9 @@
-# Satellite Dish Pointer :satellite:
+# Dish Pointer :satellite: :tv:
 
 **Zone:** Lisbon, Portugal  
 **Dish:** 80cm (balcony, short visibility on the extremes)  
 **LNB:** Inverto Black Ultra Single  
 **Receiver:** Octagon SF8008 4K S2X
-
 
 ### Strongest transponders
 
