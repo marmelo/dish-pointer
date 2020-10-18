@@ -37,7 +37,7 @@
 | 4.8°E | Astra 4A | 12284 V | 27500 3/4 | DVB-S QPSK | Sonce (UA) | 77% 12.5dB |
 | 3.0°E | Eutelsat 3B | 11654 H | 4444 3/4 | DVB-S2 8PSK | 2M Monde | 63% 10.2dB |
 | 1.9°E | BulgariaSat 1 | 12456 H | 30000 2/3 | DVB-S2 8PSK | RTP International | 78% 12.8dB |
-| 1.8°W | Thor | 12265 V | 28000 7/8 | DVB-S QPSK | Eurosport ($) | 89% 14.5dB |
+| 0.8°W | Thor | 12265 V | 28000 7/8 | DVB-S QPSK | Eurosport ($) | 89% 14.5dB |
 | 3.0°W | ABS-3A | 12739 V | 13175 2/3 | DVB-S2 QPSK | Rete Capri | 43% 6.8dB |
 | 5.0°W | Eutelsat 5 West A/B | 11179 V | 30000 3/5 | DVB-S2 8PSK MIS | Rai YoYo | 64% 10.5dB |
 |       |                     | 12648 V | 29500 8/9 | DVB-S2 8PSK MIS | TF1 Séries Films | 64% 10.5dB* |
