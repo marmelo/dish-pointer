@@ -17,6 +17,7 @@
 | 39.0°E | Hellas Sat 3/4 | 12688 V | 30000 7/8 | DVB-S QPSK | Nasul TV | 87% 14.0dB |
 | 36.0°E | Eutelsat 36B <br/> Express AMU1 | 11345 H | 30000 3/4 | DVB-S2 8PSK | BNT 4 | 55% 9.0dB |
 | 33.0°E | Eutelsat 33E | 10758 V | 27500 5/6 | DVB-S2 8PSK | France24 English | 74% 12.0dB |
+|        |              | 12597 V | 10058 25/36 | DVB-S2X 8PSK | TF1 HD Suisse | 50% 8.2dB |
 | 31.5°E | Astra 5B | 12207 V | 27500 5/6 | DVB-S QPSK | TNT Comedy ($) | 60% 9.8dB |
 | 30.5°E | Arabsat 5A/6A | 12718 V | 3000 3/4 | DVB-S QPSK | Sudan TV | 54% 8.8dB |
 | 28.2°E | Astra 2E/2F/2G | 12207 V | 27500 5/6 | DVB-S QPSK | Sky News | 81% 13.2dB |
