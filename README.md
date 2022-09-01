@@ -7,13 +7,15 @@
 
 ### Strongest transponders
 
-| Position | Satellite | Freq / Pol | SR / FEC | Std / Mod | Channel | SNR |
-| -------: | :-------- | -------: | -----: | :------ | :------ | ------: |
-| 53.0°E | Express AM6 | 12594 V | 27500 2/3 | DVB-S QPSK | Iran International | 26% 4.2dB |
-| 52.5°E | Al Yah 1    | 11977 H | 27500 8/9 | DVB-S2 QPSK | BBC Arabic | 44% 7.2dB |
-| 50.0°E | Türksat 4B  | 11196 V | 2220 5/6 | DVB-S QPSK | Türksat Promo | 43% 7.0dB |
-| 45.0°E | AzerSpace 2 <br/> Intelsat 38 | 12600 V | 30000 5/6 | DVB-S2 8PSK | France 24 | 83% 13.5dB |
-| 42.0°E | Türksat 3A/4A | 12311 V | 15000 3/4 | DVB-S2 8PSK | 24 HD | 54% 8.8dB |
+| Position | Satellites | Freq / Pol | SR / FEC | Std / Mod | Channel | SNR |
+| -------: | :--------- | -------: | -----: | :------ | :------ | ------: |
+| 53.0°E | Express AM6 | 12594 V | 27500 2/3 | DVB-S QPSK | Iran International | 55% 9.0dB |
+| 52.5°E | Al Yah 1    | 12054 H | 27500 5/6 | DVB-S2 QPSK | Rotana Cinema SD | 74% 12.0dB |
+| 52.0°E | TurkmenÄlem <br/> MonacoSat | 10753 H | 2500 3/4 | DVB-S2 8PSK | IFILM2 | 64% 10.5dB |
+| "      | "                           | 10887 V | 27500 2/3 | DVB-S QPSK | Mono TV HD | 20% 2.5dB* |
+| 50.0°E | Türksat 4B  | 11196 V | 2220 5/6 | DVB-S QPSK | TURKSAT TANITIM | 55% 9.0dB |
+| 45.0°E | Intelsat 38 | 11555 V | 30000 5/6 | DVB-S2 8PSK | BNT 4 | 89% 14.5dB |
+| 42.0°E | Türksat 3A/4A/5B | 12034 V | 27500 5/6 | DVB-S QPSK | CNN TÜRK | 47% 8.0dB |
 | 39.0°E | Hellas Sat 3/4 | 12688 V | 30000 7/8 | DVB-S QPSK | Nasul TV | 87% 14.0dB |
 | 36.0°E | Eutelsat 36B <br/> Express AMU1 | 11345 H | 30000 3/4 | DVB-S2 8PSK | BNT 4 | 55% 9.0dB |
 | 33.0°E | Eutelsat 33E | 10758 V | 27500 5/6 | DVB-S2 8PSK | France24 English | 74% 12.0dB |
